@@ -127,10 +127,3 @@ Licensed under the **MIT License** – free to use and modify.
 ### 🔥 DTMS = **Less managing, more doing.**
 
 ```
-
----
-
-⚡ This makes your GitHub repo **look enterprise-ready** from day one.  
-
-👉 Do you want me to also craft a **badges section (build status, license, tech stack logos)** at the top for extra professional polish?
-```
